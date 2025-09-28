@@ -23,10 +23,12 @@
 ---
 
 ## 🔑User Stories (MVP Backlog)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
+| ID  | User Story                                                                 | Prioridade | Partner Requirement|
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | As an analyst, I will collect and filter data from 2020 to 2024 to ensure the information is ready for future analysis         | High      | 5    |
+| US2 | As an analyst, I will develop a draft of the home screen with key indicators to have a clear and objective view of what the final Dashboard version will look like         | Medium     | 1  |
+| US3 | As an analyst, I will select specific products for deep data analysis         | Low      | 1   |
+| US4 | As an analyst, I will develop a Python code to unify the data that will be used for data analysis         | High     | 5   |
 
 ---
 
@@ -59,7 +61,7 @@
 
 ---
 
-## 📂 Anexos / Evidências
+## 📂 Attachments / Evidence
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
