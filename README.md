@@ -1,14 +1,14 @@
 <img width="1584" height="396" alt="Port operation (1)" src="https://github.com/user-attachments/assets/e431e82d-c856-42a5-9fab-c32c299af89b" />
 
 
-# Who we are?
+## Who we are?
 
 *"Connecting the World!"* 
 
 Welcome ESPHERA LOGTECH, where we connect the world with intelligent and agile logistics solutions. Our mission as a group of students is to integrate technology and planning to efficiently and safely meet the needs of each client. With an innovative approach, we transform the routing sector, driving global mobility with precision and excellence.
 
 
-# Index
+## Index
 * [Project (API)](#Project-(API))
 * [Team](#Team)
 * [Project Objective](Project-Objective)
@@ -17,11 +17,11 @@ Welcome ESPHERA LOGTECH, where we connect the world with intelligent and agile l
 * [Sprint Log](#Sprint-Log)
 
 
-# Project (API) 
+## Project (API) 
 Pedagogical project structured upon the API Methodology for teaching and learning, oriented towards competence development and grounded in the pillars of Real Problem-Based Learning (RPBL), external validation, and an agile mindset. It employs strategies aimed at comprehending the problem, conceiving a feasible solution through the development and implementation of the MVP, and subsequently advancing to its operation (CDIO).
 
 
-# Team
+## Team
 |    Function     | Name                                 |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Bruno Canuto        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-canuto-746944291) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoCanuto01)              |
@@ -32,7 +32,7 @@ Pedagogical project structured upon the API Methodology for teaching and learnin
 |  Team Member  | Tatiane Sousa      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tatiane-sousa-5b564625b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
 
 
-# Project Objective
+## Project Objective
 This project seeks to conduct a comprehensive analysis of port data covering the years 2020 to 2024, with a particular focus on evaluating logistical efficiency. The study aims to identify the main causes of operational stoppages, measure cargo flows, determine the most relevant countries involved in trade, and classify the predominant types of cargo. In addition, a comparative assessment of ports will be carried out by applying the DEA (Data Envelopment Analysis) methodology to determine those with the highest levels of relative efficiency. In this way, the research intends not only to broaden the academic understanding of the topic but also to provide strategic insights for the optimization of processes within the port sector.
 
 
@@ -45,7 +45,7 @@ This project seeks to conduct a comprehensive analysis of port data covering the
 * Canva
 
 
-# Product Backlog
+## Product Backlog
 
 | Rank | Priority | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
@@ -58,7 +58,7 @@ This project seeks to conduct a comprehensive analysis of port data covering the
 
 
   
-# Sprint Log
+## Sprint Log
 
 | Sprint            | Forecast   | Status   | Historical |
 |-------------------|------------|----------|-----------|
