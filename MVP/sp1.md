@@ -1,6 +1,6 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Port Operations Analysis
 
-## 🎯 Objetivo do MVP
+## 🎯 objective of MVP
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve?  
 - Qual hipótese será validada?  
@@ -8,7 +8,7 @@
 
 ---
 
-## 📝 Descrição da Solução
+## 📝 Solution Description
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
 - Funcionalidades principais incluídas  
 - Limitações conhecidas  
@@ -16,13 +16,13 @@
 
 ---
 
-## 👥 Personas / Usuários-Alvo
+## 👥 Personas / Target Users
 - **Persona 1:** breve descrição, necessidades e dores atendidas  
 - **Persona 2:** breve descrição, necessidades e dores atendidas  
 
 ---
 
-## 🔑 User Stories (Backlog do MVP)
+## 🔑User Stories (MVP Backlog)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
@@ -30,7 +30,7 @@
 
 ---
 
-## 📅 Sprint(s) Relacionadas
+## 📅 Related Sprint(s)
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | [Funcionalidade X, Y]                        | Concluído|
@@ -38,21 +38,21 @@
 
 ---
 
-## 📊 Critérios de Aceitação
+## 📊 Acceptance Criteria
 - O MVP deve permitir que o usuário [ação principal]  
 - O sistema deve registrar [evento importante]  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
 
-## 📈 Métricas de Validação
+## 📈 Validation Metrics
 - Número de usuários que testaram o MVP  
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
 ---
 
-## 🚀 Próximos Passos
+## 🚀 Next Steps
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
