@@ -1,6 +1,9 @@
+<img width="1584" height="396" alt="Port operation (1)" src="https://github.com/user-attachments/assets/e431e82d-c856-42a5-9fab-c32c299af89b" />
+
+
 # Who we are?
 
-*"Connecting the World!"*
+*"Connecting the World!"* 
 
 Welcome ESPHERA LOGTECH, where we connect the world with intelligent and agile logistics solutions. Our mission as a group of students is to integrate technology and planning to efficiently and safely meet the needs of each client. With an innovative approach, we transform the routing sector, driving global mobility with precision and excellence.
 
@@ -63,3 +66,6 @@ This project seeks to conduct a comprehensive analysis of port data covering the
 | 02                | 24/10/2025  | to do  | [MVP](#)  |
 | 03                | 14/11/2025 | to do  | [MVP](#)  |
 | Solutions Fair| 04/12/2025 | to do  | [MVP](#)  |
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3379b7&height=120&section=footer"/>
+
