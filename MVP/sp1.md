@@ -16,17 +16,15 @@ Entrega de um resumo claro e estruturado das análises preliminares, permitindo 
 ---
 
 ## 📝 Solution Description
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Apresentação das principais análises e dados extraídos da base, sem filtragem detalhada.
+- Estruturação do material para que o cliente compreenda o estágio atual do projeto.
+- Limitações: ausência do dashboard nesta etapa, foco no trabalho exploratório inicial.
 
 ---
 
 ## 👥 Personas / Target Users
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- **Cliente:** Busca uma visão clara e objetiva do panorama inicial das cargas e dos dados coletados para entender o contexto atual e apoiar o planejamento de ações estratégicas futuras.
+- **Equipe de trabalho:** Necessita validar a qualidade, a consistência e o conteúdo dos dados extraídos para garantir que a base está adequada antes de avançar para análises mais aprofundadas e para o desenvolvimento do dashboard. 
 ---
 
 ## 🔑User Stories (MVP Backlog)
@@ -54,23 +52,23 @@ Entrega de um resumo claro e estruturado das análises preliminares, permitindo 
 ---
 
 ## 📊 Acceptance Criteria
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualize as análises iniciais e os dados extraídos da base, sem filtros ou manipulações complexas.
+- O sistema deve registrar o progresso do trabalho e o conteúdo apresentado ao cliente.
+- Métricas coletadas: feedback sobre clareza das análises e compreensão dos dados apresentados.
 
 ---
 
 ## 📈 Validation Metrics
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários (internos e clientes) que revisaram e aprovaram as análises iniciais.
+- Feedback qualitativo referente à utilidade e compreensão das informações apresentadas.
+- Indicadores de negócio: alinhamento do cliente com o escopo inicial para as próximas etapas. 
 
 ---
 
 ## 🚀 Next Steps
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Refinar as análises com base no feedback recebido.
+- Desenvolver o dashboard inicial para visualização interativa dos dados.
+- Incluir filtros e funcionalidades analíticas mais avançadas no próximo ciclo.  
 
 ---
 
