@@ -1,10 +1,17 @@
 # 📌 MVP - Port Operations Analysis
 
-## 🎯 objective of MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+## 🎯 Objective of MVP
+- *Qual problema resolve?*
+
+O MVP da sprint 1 tem como objetivo apresentar as principais análises e os dados extraídos da base de 2020 a 2024, de forma inicial e sem filtragem aprofundada, para que o cliente tenha uma visão preliminar do material coletado até o momento.
+
+- *Qual hipótese será validada?*
+
+A hipótese de que a apresentação das análises iniciais e dos dados extraídos é suficiente para gerar entendimento inicial e orientar as próximas etapas do projeto.
+
+- *Qual valor será entregue ao usuário final?*
+
+Entrega de um resumo claro e estruturado das análises preliminares, permitindo ao usuário validar o andamento do trabalho e planejar as próximas ações.
 
 ---
 
@@ -35,8 +42,14 @@
 ## 📅 Related Sprint(s)
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     |Planilhas com os dados extraídos de 2020 a 2024                        | Concluído|
+| 01     |Principais cargas a serem trabalhadas                          | Concluído |
+| 01     |Código inicial no colab estruturado                            | Concluído |
+| 01     |Análises iniciais                           | Concluído |
+| 01     |Esboço do dashboard                         | Concluído |
+| 01     |Apresentação em ppt                         | Concluído |
+| 01     |Github estruturado                        | Em andamento |
+
 
 ---
 
