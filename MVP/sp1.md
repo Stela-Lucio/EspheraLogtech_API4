@@ -23,8 +23,9 @@ A clear and structured summary of the preliminary analyses will be delivered, en
 ---
 
 ## 👥 Personas / Target Users
-- **Cliente:** Busca uma visão clara e objetiva do panorama inicial das cargas e dos dados coletados para entender o contexto atual e apoiar o planejamento de ações estratégicas futuras.
-- **Equipe de trabalho:** Necessita validar a qualidade, a consistência e o conteúdo dos dados extraídos para garantir que a base está adequada antes de avançar para análises mais aprofundadas e para o desenvolvimento do dashboard. 
+- **Client:** Seeks a clear and objective view of the initial landscape of shipments and the collected data to understand the current context and support the planning of future strategic actions.
+- **Project Team:** Needs to validate the quality, consistency, and content of the extracted data to ensure the dataset is suitable before advancing to more in-depth analyses and the development of the dashboard.
+
 ---
 
 ## 🔑User Stories (MVP Backlog)
@@ -40,35 +41,34 @@ A clear and structured summary of the preliminary analyses will be delivered, en
 ## 📅 Related Sprint(s)
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     |Planilhas com os dados extraídos de 2020 a 2024                        | Concluído|
-| 01     |Principais cargas a serem trabalhadas                          | Concluído |
-| 01     |Código inicial no colab estruturado                            | Concluído |
-| 01     |Análises iniciais                           | Concluído |
-| 01     |Esboço do dashboard                         | Concluído |
-| 01     |Apresentação em ppt                         | Concluído |
-| 01     |Github estruturado                        | Em andamento |
-
+| 01 | Spreadsheets with data extracted from 2020 to 2024 | Completed |
+| 01 | Key shipments to be worked on | Completed |
+| 01 | Initial code structured in Colab | Completed |
+| 01 | Initial analyses | Completed |
+| 01 | Dashboard prototype | Completed |
+| 01 | PowerPoint presentation | Completed |
+| 01 | Structured GitHub repository | In progress 
 
 ---
 
 ## 📊 Acceptance Criteria
-- O MVP deve permitir que o usuário visualize as análises iniciais e os dados extraídos da base, sem filtros ou manipulações complexas.
-- O sistema deve registrar o progresso do trabalho e o conteúdo apresentado ao cliente.
-- Métricas coletadas: feedback sobre clareza das análises e compreensão dos dados apresentados.
+- The MVP should allow the user to view the initial analyses and the data extracted from the dataset, without complex filtering or manipulations.
+- The system should record the progress of the work and the content presented to the client.
+- Collected metrics: feedback on the clarity of the analyses and understanding of the presented data.
 
 ---
 
 ## 📈 Validation Metrics
-- Número de usuários (internos e clientes) que revisaram e aprovaram as análises iniciais.
-- Feedback qualitativo referente à utilidade e compreensão das informações apresentadas.
-- Indicadores de negócio: alinhamento do cliente com o escopo inicial para as próximas etapas. 
+- Number of users (internal and clients) who reviewed and approved the initial analyses.
+- Qualitative feedback regarding the usefulness and understanding of the presented information.
+- Business indicators: client alignment with the initial scope for the next stages.
 
 ---
 
 ## 🚀 Next Steps
-- Refinar as análises com base no feedback recebido.
-- Desenvolver o dashboard inicial para visualização interativa dos dados.
-- Incluir filtros e funcionalidades analíticas mais avançadas no próximo ciclo.  
+- Refine the analyses based on the feedback received.
+- Develop the initial dashboard for interactive data visualization.
+- Include filters and more advanced analytical features in the next cycle.
 
 ---
 
