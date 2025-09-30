@@ -1,24 +1,24 @@
 # 📌 MVP - Port Operations Analysis
 
 ## 🎯 Objective of MVP
-- *Qual problema resolve?*
+- *What problem does it solve?*
 
-O MVP da sprint 1 tem como objetivo apresentar as principais análises e os dados extraídos da base de 2020 a 2024, de forma inicial e sem filtragem aprofundada, para que o cliente tenha uma visão preliminar do material coletado até o momento.
+The MVP of sprint 1 aims to present the key analyses and data extracted from the 2020 to 2024 dataset, in an initial form without extensive filtering. This is intended to provide the client with a preliminary overview of the material collected so far.
 
-- *Qual hipótese será validada?*
+- *What hypothesis will be validated?*
 
-A hipótese de que a apresentação das análises iniciais e dos dados extraídos é suficiente para gerar entendimento inicial e orientar as próximas etapas do projeto.
+The hypothesis that presenting the initial analyses and extracted data is sufficient to generate an initial understanding and guide the next steps of the project will be validated.
 
-- *Qual valor será entregue ao usuário final?*
+- *What value will be delivered to the end user?*
 
-Entrega de um resumo claro e estruturado das análises preliminares, permitindo ao usuário validar o andamento do trabalho e planejar as próximas ações.
+A clear and structured summary of the preliminary analyses will be delivered, enabling the user to validate the progress of the work and plan the next actions.
 
 ---
 
 ## 📝 Solution Description
-- Apresentação das principais análises e dados extraídos da base, sem filtragem detalhada.
-- Estruturação do material para que o cliente compreenda o estágio atual do projeto.
-- Limitações: ausência do dashboard nesta etapa, foco no trabalho exploratório inicial.
+- Presentation of the key analyses and data extracted from the dataset, without detailed filtering.
+- Structuring the material to ensure the client understands the current stage of the project.
+- Limitations: absence of the dashboard at this stage, with a focus on the initial exploratory work.
 
 ---
 
