@@ -77,7 +77,7 @@ A clear and structured summary of the preliminary analyses will be delivered, en
 
 > The slide provides the project introduction, outlines the activities undertaken during the first sprint, presents the initial data collected, and includes the preliminary draft of the dashboard under development.
 
-[Click here](MVP/Sprit1_presentation.pdf)
+[Click here](Files/Sprit1_presentation.pdf)
   
 #### Initial code developed
 
@@ -89,4 +89,4 @@ A clear and structured summary of the preliminary analyses will be delivered, en
 
 > The table compiles data on cargo handled between 2020 and 2024, presenting the name of each cargo along with its full description. In addition, it displays the quantities moved over the years, enabling the analysis of historical trends and the identification of logistical behavior patterns within the port sector.
 
-[Click here]("Files/CD_moviment.pdf")
+[Click here](Files/CD_moviment.pdf)
