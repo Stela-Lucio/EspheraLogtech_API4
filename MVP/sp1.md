@@ -77,7 +77,7 @@ A clear and structured summary of the preliminary analyses will be delivered, en
 
 > The slide provides the project introduction, outlines the activities undertaken during the first sprint, presents the initial data collected, and includes the preliminary draft of the dashboard under development.
 
-[Click here](MVP/Files/Sprit1_presentation.pdf)
+[Click here](MVP/Sprit1_presentation.pdf)
   
 #### Initial code developed
 
