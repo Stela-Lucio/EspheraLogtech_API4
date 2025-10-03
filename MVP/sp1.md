@@ -73,6 +73,20 @@ A clear and structured summary of the preliminary analyses will be delivered, en
 ---
 
 ## 📂 Attachments / Evidence
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+#### Presentation
+
+> The slide provides the project introduction, outlines the activities undertaken during the first sprint, presents the initial data collected, and includes the preliminary draft of the dashboard under development.
+
+[Click here](Files/Sprit1_presentation.pdf)
+  
+#### Initial code developed
+
+> The developed code is designed to process and organize port data from 2020 to 2024. The implemented structure consolidates information on cargo handled, weight in kilograms, and other relevant variables for the analysis. This initial processing serves as the foundation for building indicators, conducting port comparisons, and subsequently applying analytical models such as DEA, ensuring consistency and reliability in the results obtained.
+
+[Click here](https://colab.research.google.com/drive/1nxS1R6oM4fPLr0s1wSfmPDeEyWlyZVY7?usp=sharing)   
+
+#### Quantity of cagro movements
+
+> The table compiles data on cargo handled between 2020 and 2024, presenting the name of each cargo along with its full description. In addition, it displays the quantities moved over the years, enabling the analysis of historical trends and the identification of logistical behavior patterns within the port sector.
+
+[Click here](Files/CD_moviment.pdf)
