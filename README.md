@@ -62,8 +62,8 @@ This project seeks to conduct a comprehensive analysis of port data covering the
 
 | Sprint            | Forecast   | Status   | Historical |
 |-------------------|------------|----------|-----------|
-| 01                | 03/10/2025 | developing  | [MVP](MVP/sp1.md)  |
-| 02                | 24/10/2025  | to do  | [MVP](#)  |
+| 01                | 03/10/2025 | completed  | [MVP](MVP/sp1.md)  |
+| 02                | 31/10/2025  | developing  | [MVP](MVP/sp2.md)  |
 | 03                | 14/11/2025 | to do  | [MVP](#)  |
 | Solutions Fair| 04/12/2025 | to do  | [MVP](#)  |
 
