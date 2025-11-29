@@ -52,62 +52,61 @@ Limitations:
 ## 🔑User Stories (MVP Backlog)
 | ID  | User Story                                                                 | Prioridade | Partner Requirement|
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | As an analyst, I want to visualize the main reasons for operational stoppages to identify the major factors that impact productivity  | High      | 2    |
-| US2 | As an analyst, I want to visualize which ports transport the most cargo to identify which ones are most relevant in port movement      | High     | 4  |
-| US3 | As an analyst, I want to visualize how many port operations are performed per month at each port to understand the volume of operational activities       | Medium      | 4   |
-| US4 | As an analyst, I will identify and analyze which were the most transported cargoes in the established period.        | Medium   | 2   |
+| US1 | As an analyst, I will use the DEA model to measure the efficiency of ports | High      | 1    |
+| US2 | As an analyst, I will develop a functional dashboard with information on port efficiency based on processing times in Brazilian ports and specific sector data      | High     | 5  |
+| US3 | As an analyst, I will evaluate operation times, focusing on locating which ports have longer waiting times and which are more agile in operation       | Medium      | 2   |
+| US4 | As an analyst, I will use GitHub, Jira, and Google Colab tools for project development        | High   | 1   |
 
 ---
 
 ## 📅 Related Sprint(s)
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 02 | Compiled and validated dataset with essential information | Completed |
-| 02 | Exploratory visualizations created (overall and by cargo type) | Completed |
-| 02 | Implementation of filters (year, origin, destination) | Completed |
-| 02 | Consolidated analytical report | Completed |
-| 02 | Dashboard initial | Completed |
-| 02 | Structured GitHub repository | In progress 
+[| 03 | Interactive Dashboard with 4 visualizations | Completed |
+| 03 | Efficiency calculation via DEA model | Completed |
+| 03 | Cleaned & corrected stoppages dataset | Completed |
+| 03 | Presentation video | Completed |
+| 03 | Structured GitHub repository | In progress ]
 
 ---
 
 ## 📊 Acceptance Criteria
 
-- The MVP must allow users to view segmented analyses by cargo type (Steel, Cellulose, and Fertilizers).
-- The compiled dataset must contain consistent and cleaned data.
-- Visualizations must include filters for year, origin, and destination.
-- The client must be able to easily interpret trends and movements presented.
-- Positive feedback should be obtained regarding the clarity and relevance of the analyses.
+- The dashboard must include four complete analytical views
+- The DEA model must use berthing time vs. transported cargo as the efficiency criterion.
+- Visualizations must clearly represent trends, performance patterns, and efficiency levels.
+- The dataset must remain clean, consistent, and integrated into the dashboard.
+- The client should be able to navigate and interpret the insights with ease.
 
 ---
 
 ## 📈 Validation Metrics
-- Validation of the compiled dataset by both the technical team and the client.
-- Number of visualizations implemented and tested.
-- Qualitative feedback from the client on usefulness and clarity of insights.
-- Level of alignment between Sprint 2 deliverables and the client’s strategic objectives.
+- Accuracy of DEA results and efficiency rankings.
+- Number and stability of integrated visualizations.
+- Client and internal team feedback on clarity and usability.
+- Correct functioning of dashboard navigation and data linkage.
+- Alignment between insights and the client's operational needs.
 
 ---
 
 ## 🚀 Next Steps
-- Incorporate formal client feedback (after Sprint 2 presentation).
-- Develop the interactive dashboard with full filter integration.
-- Expand comparative analyses between ports and cargo types.
-- Apply analytical models and performance indicators (e.g., DEA).Prepare the consolidated Sprint 3 delivery with a functional dashboard and finalized documentation.
+- Perform the final verification with the client to ensure the analyses and visualizations meet expectations.
+- Apply final improvements and refinements based on the client’s feedback.
+- Prepare all materials and visual outputs for the Solution Fair presentation, organizing the content clearly and professionally.
 
 ---
 
 ## 📂 Attachments / Evidence
 
-#### Updated Code
+#### Efficiency Code
 
->Revised Python code adapted for cleaning, consolidation, and updating of port operation data.
+> Updated Python code developed for calculating port efficiency using the DEA model, including the processing of berthing time relative to transported cargo.
 
-[📎 Click here](https://colab.research.google.com/drive/1vFg2igoW8Bx3mTpofzVIToleJ7FgzLXf?usp=sharing)
-[📎 Click here](https://colab.research.google.com/drive/1joklk2VO325w9M0ARoECDxMn3niDL73h?usp=sharing)
+[📎 Click here](https://colab.research.google.com/drive/1GWo_wNPInjZSoMRdY8L2w1J-c-stXMfm?usp=sharing)
 
-#### Created Visualizations
 
-> Graphs and tables developed to represent total movements, most active ports, and cargo-type analysis. Filters for year, origin, and destination have been implemented.
+#### Product Overview Video
 
-[📎 Click here](dashboard)
+> Presentation video created to showcase the product, demonstrate the dashboard’s features, and summarize the main activities developed throughout the project.
+
+[📎 Click here](https://youtu.be/3ETfMbm2I5Q?si=deVXr6y_H8eg6Hm5)
