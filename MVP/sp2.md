@@ -3,7 +3,7 @@
 ## 🎯 Objective of MVP
 - *What problem does it solve?*
 
-The MVP for Sprint 2 aims to deepen the analysis of port operations, focusing specifically on three priority cargo types — Steel, Cellulose, and Fertilizers — while maintaining a general overview of logistics performance from 2020 to 2024.
+The MVP for Sprint 2 aims to deepen the analysis of port operations, focusing specifically on three priority cargo types — Steel — while maintaining a general overview of logistics performance from 2020 to 2024.
 This stage seeks to deliver a more refined and targeted analysis to the client, with improved visualizations that enhance the understanding of port movements and the main origin-destination routes.
 
 - *What hypothesis will be validated?*
@@ -81,13 +81,6 @@ The user will receive a set of analyses and visualizations highlighting key tren
 
 ## 📂 Attachments / Evidence
 
-#### Compiled Dataset
-
-> Updated file containing essential information from 2020 to 2024, consolidating port, cargo, and movement data.
-
-[📎 Click here](link de todos os dados compilados)
-
-
 #### Updated Code
 
 >Revised Python code adapted for cleaning, consolidation, and updating of port operation data.
@@ -99,4 +92,4 @@ The user will receive a set of analyses and visualizations highlighting key tren
 
 > Graphs and tables developed to represent total movements, most active ports, and cargo-type analysis. Filters for year, origin, and destination have been implemented.
 
-[📎 Click here](dashboard e apresentação)
+[📎 Click here](dashboard)
