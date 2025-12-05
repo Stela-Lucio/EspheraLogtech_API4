@@ -66,7 +66,7 @@ Limitations:
 | 03 | Efficiency calculation via DEA model | Completed |
 | 03 | Cleaned & corrected stoppages dataset | Completed |
 | 03 | Presentation video | Completed |
-| 03 | Structured GitHub repository | In progress 
+| 03 | Structured GitHub repository | Completed
 
 ---
 
